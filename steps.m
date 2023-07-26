@@ -1,6 +1,7 @@
 % This code done in matlab 2019a to classify Acute lymphocytic leukemia
 % images to blast or normal images
 % designed by: Dr. Mohamed Maher Ata (mmaher844@yahoo.com), Eng. Reem Magdy Elrefaie (ramomagdy97@gmail.com)
+%dataset we used in https://www.kaggle.com/datasets/nikhilsharma00/leukemia-dataset
 warning('off')
 clear 
 close all
